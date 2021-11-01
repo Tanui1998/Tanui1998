@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Brian Kipkoech
+- 👀 I’m interested in Data Science, Data Engineering and Cloud Computing
+- 🌱 I’m currently learning Data Science, Data Engineering and Cloud Computing
